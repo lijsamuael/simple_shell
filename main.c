@@ -2,7 +2,7 @@
 
 /**
  * main - entry point of the program
- * @ac: the number of arguments passed
+ * @ac: the number  of arguments passed
  * @av: the array of arguments
  *
  * Return: 0 on success, 1 on error
