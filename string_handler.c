@@ -59,7 +59,7 @@ char *_strncat(char *dest, char *src, int n)
 
 /**
  **_strchr - find the location of the a single character form a string
- *@s: the string to be parsed
+ *@s: the string to be parsed 
  *@c: the character to look for
  *Return: (s) a pointer to the memory area s
  */
