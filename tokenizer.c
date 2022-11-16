@@ -1,9 +1,9 @@
 #include "main.h"
 
 /**
- * **strtow - splits a string into words. using a space character as a delimeter
+ * **strtow - splits a string into words. using a spac
  * @str: the input array of characters and strings
- * @d: the delimeter string 
+ * @d: the delimeter string
  * Return: a pointer to an array of strings, or NULL on failure
  */
 
