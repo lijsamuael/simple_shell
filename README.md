@@ -54,4 +54,4 @@ wait3   =>  pid_t wait3(int *status, int options, struct rusage *rusage);  =>  I
 wait4 - wait for process to change state, BSD style   =>  pid_t wait4(pid_t pid, int *status, int options, struct rusage *rusage);
 
 write - write to a file descriptor   =>  ssize_t write(int fd, const void *buf, size_t count);   =>  write() writes up to count bytes from the buffer starting at buf to the file referred to by the file descriptor fd.
-
+ 
